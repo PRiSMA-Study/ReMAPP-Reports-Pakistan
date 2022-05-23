@@ -75,7 +75,7 @@
 7. Histogram of Hemoglobin Levels by trimester (SbHb only)
 8. Comparison of Same-day Hemoglobin Measures using Bland Altman
 
-## ReMAPP_Eligibility_2022-03-02.txt
+### ReMAPP_Eligibility_2022-03-02.txt
 1. Distribution of enrollment criteria for Aim 1 including:
  age, gestational age, BMI, MUAC, Height, Singleton fetus, BP readings, history of miscarriage, history of LBW, history of neonatal death
 
