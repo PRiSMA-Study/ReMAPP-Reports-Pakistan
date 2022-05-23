@@ -46,3 +46,41 @@
 
 ## Result reports
 
+### ReMAPP_Data_Cleaning_Part1__pID_Log_14_dec_2021_updated
+1. Implausible values of Hb
+2. Implausible values of gestational age
+3. Missing values of EDD & LMP
+
+### ReMAPP_ANC_Hemoglobin_part_2_14_dec_2021_preg_ID
+1. Distribution of Hb 
+2. Number of test per participants
+3. Details of implausible values of Hb
+4. Distribution of Hb by trimister
+5. Prevalence of Anemia by WHO & CDC
+
+### ReMAPP Site Historical Hemoglobin Data_16_jan_2022
+1.  ANC Hemoglobin by Measurement Method by Site
+2.  ANC Hemoglobin Descriptive Statistics by Site (mean (SD), min-max)
+3.  Prevalence of Anemia by Site
+4.  Hemoglobin measures by gestational age
+5.  Hemoglobin values by trimester
+
+### ReMAPP ANC Hemoglobin Figures_14_feb_2022
+1. ANC Hemoglobin Descriptive Statistics
+2. Histogram of Hemoglobin Levels (all methods)
+3. Histogram of Hemoglobin Levels by trimester (all methods)
+4. Histogram of Hemoglobin Levels by trimester (all methods)
+5. Histogram of Hemoglobin Levels (CBC only)
+6. Histogram of Hemoglobin Levels by trimester (CBC only)
+7. Histogram of Hemoglobin Levels by trimester (SbHb only)
+8. Comparison of Same-day Hemoglobin Measures using Bland Altman
+
+## ReMAPP_Eligibility_2022-03-02.txt
+1. Distribution of enrollment criteria for Aim 1 including:
+ age, gestational age, BMI, MUAC, Height, Singleton fetus, BP readings, history of miscarriage, history of LBW, history of neonatal death
+
+
+
+
+
+
